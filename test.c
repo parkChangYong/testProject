@@ -2,5 +2,10 @@
 
 int main()
 {
+  printf("aaa\n");
   printf("hello\n");
 }
+
+
+
+

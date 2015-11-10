@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 parkcy parkcy 4096 Nov  9 17:39 .
+drwxrwxr-x 3 parkcy parkcy 4096 Nov  9 17:39 ..
+drwxrwxr-x 8 parkcy parkcy 4096 Nov  9 17:39 .git
+-rw-rw-r-- 1 parkcy parkcy   32 Nov  9 17:39 README.md
+-rw-rw-r-- 1 parkcy parkcy   56 Nov  9 17:39 test.c
+-rw-rw-r-- 1 parkcy parkcy    0 Nov  9 17:39 test.txt
